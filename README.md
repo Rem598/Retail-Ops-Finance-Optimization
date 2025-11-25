@@ -1,4 +1,4 @@
-# Corporate Operations & Finance Optimization Suite
+# Corporate Operations & Finance Optimization 
 
 ## 📋 Project Overview
 This project represents a comprehensive MIS analysis workflow designed to optimize a retail logistics company's supply chain and financial health. The project encompasses the full data lifecycle: **extracting data** via SQL, **automating** accounts receivable via Google Apps Script, **visualizing** KPIs in Power BI, and delivering **strategic recommendations**.
