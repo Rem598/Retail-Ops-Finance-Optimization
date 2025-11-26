@@ -29,7 +29,7 @@ This project represents a comprehensive MIS analysis workflow designed to optimi
 * *(See `Process Automation` for the codebase)*
 
 ### 3. SQL Data Extraction
-*Authored complex queries to investigate performance issues.*
+*Authored  queries to investigate performance issues.*
 
 * Identified the **Top 5 Customers** by revenue to drive account management focus.
 * Calculated **Overdue Payments by Region** (North Region had the highest overdue count at 53).
